@@ -23,7 +23,7 @@ Note, this app is pretty much under development, and many features are still lac
 
 Note, please enable developer options on your device first, by tapping build number option multiple times. On most Android devices, this option can be found under System Settings, About category. Then go to developer options under System Settings and enable USB debugging.
 
-To build from command line with gradle, read the instructions [https://developer.android.com/studio/build/building-cmdline.html](Here).
+To build from command line with gradle, read the instructions [Here](https://developer.android.com/studio/build/building-cmdline.html).
 
 To build with Android Studio, Open the project from this repository, then press Shift+F10. Select your device, then click OK. If everything is configured properly, the app should be installed and running on your device.
 
