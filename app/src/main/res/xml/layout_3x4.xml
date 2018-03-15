@@ -1,0 +1,89 @@
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+		  android:horizontalGap="0px"
+		  android:keyHeight="@dimen/key_height"
+		  android:keyWidth="50%p"
+		  android:verticalGap="0px">
+
+	<Row>
+
+		<Key
+			android:codes="-4"
+			android:keyEdgeFlags="left"
+			android:keyLabel="@string/symbol_return"/>
+
+		<Key
+			android:codes="-5"
+			android:isRepeatable="true"
+			android:keyEdgeFlags="right"
+			android:keyLabel="@string/key_del"/>
+	</Row>
+
+	<Row>
+
+		<Key
+			android:codes="46,44,63,33,49,45,95"
+			android:keyEdgeFlags="left"
+			android:keyLabel="1"/>
+
+		<Key
+			android:codes="97,98,99,50"
+			android:keyLabel="ABC2"/>
+
+		<Key
+			android:codes="100,101,102,51"
+			android:keyEdgeFlags="right"
+			android:keyLabel="DEF3"/>
+	</Row>
+
+	<Row>
+
+		<Key
+			android:codes="103,104,105,52"
+			android:keyEdgeFlags="left"
+			android:keyLabel="GHI4"/>
+
+		<Key
+			android:codes="106,107,108,53"
+			android:keyLabel="JKL5"/>
+
+		<Key
+			android:codes="109,110,111,54"
+			android:keyEdgeFlags="right"
+			android:keyLabel="MNO6"/>
+	</Row>
+
+	<Row>
+
+		<Key
+			android:codes="112,113,114,115,55"
+			android:keyEdgeFlags="left"
+			android:keyLabel="PQRS7"/>
+
+		<Key
+			android:codes="116,117,118,56"
+			android:keyLabel="TUV8"/>
+
+		<Key
+			android:codes="119,120,121,122,57"
+			android:keyEdgeFlags="right"
+			android:keyLabel="WXYZ9"/>
+	</Row>
+
+	<Row android:rowEdgeFlags="bottom">
+
+		<Key
+			android:codes="-1"
+			android:keyEdgeFlags="left"
+			android:keyLabel="CAPS"/>
+
+		<Key
+			android:codes="32,48"
+			android:keyLabel="SPACE 0"/>
+
+		<Key
+			android:codes="35,64"
+			android:keyEdgeFlags="right"
+			android:keyLabel="\# \@"/>
+	</Row>
+
+</Keyboard>

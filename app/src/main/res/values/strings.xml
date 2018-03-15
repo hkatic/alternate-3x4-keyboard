@@ -1,0 +1,21 @@
+<resources>
+	<string name="app_name">Alternate 3X4 Keyboard</string>
+	<string name="a3x4_ime">Alternate 3X4 IME</string>
+	<string name="subtype_en_US">English (United States)</string>
+	<string name="type_some_text">Type some text here.</string>
+	<string name="key_done">new line</string>
+	<string name="key_del">DEL</string>
+	<string name="key_shift">caps %1$s</string>
+	<string name="on">on</string>
+	<string name="off">off</string>
+	<string name="char_capital">cap %1$s</string>
+	<string name="symbol_space">space</string>
+	<string name="symbol_comma">comma</string>
+	<string name="symbol_question_mark">question mark</string>
+	<string name="symbol_exclamation_mark">exclamation mark</string>
+	<string name="symbol_at_sign">at</string>
+	<string name="symbol_number_sign">number</string>
+	<string name="symbol_period">period</string>
+	<string name="symbol_return">cariage return</string>
+	<string name="symbol_line_feed">line feed</string>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+	<string name="app_name">Alternativna tipkovnica 3X4</string>
+	<string name="a3x4_ime">Alternativna tipkovnica 3X4</string>
+	<string name="subtype_en_US">Engleski (SAD)</string>
+	<string name="type_some_text">Ovdje isprobajte tipkovnicu.</string>
+	<string name="key_done">novi redak</string>
+	<string name="key_del">BRIŠI</string>
+	<string name="key_shift">velika slova %1$s</string>
+	<string name="on">uključeno</string>
+	<string name="off">isključeno</string>
+	<string name="char_capital">veliko %1$s</string>
+	<string name="symbol_space">razmak</string>
+	<string name="symbol_comma">zarez</string>
+	<string name="symbol_question_mark">upitnik</string>
+	<string name="symbol_exclamation_mark">uskličnik</string>
+	<string name="symbol_at_sign">et</string>
+	<string name="symbol_number_sign">broj</string>
+	<string name="symbol_period">točka</string>
+	<string name="symbol_return">kraj redka</string>
+	<string name="symbol_line_feed">novi redak</string>
+</resources>
