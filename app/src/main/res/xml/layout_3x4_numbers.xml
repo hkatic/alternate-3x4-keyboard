@@ -9,16 +9,16 @@
 	<Row>
 
 		<Key
-			android:codes="46,44,63,33,49,45,95"
+			android:codes="49"
 			android:keyEdgeFlags="left"
 			android:keyLabel="1"/>
 
 		<Key
-			android:codes="97,98,99,50"
+			android:codes="50"
 			android:keyLabel="2"/>
 
 		<Key
-			android:codes="100,101,102,51"
+			android:codes="51"
 			android:keyLabel="3"/>
 
 		<Key
@@ -31,16 +31,16 @@
 	<Row>
 
 		<Key
-			android:codes="103,104,105,52"
+			android:codes="52"
 			android:keyEdgeFlags="left"
 			android:keyLabel="4"/>
 
 		<Key
-			android:codes="106,107,108,53"
+			android:codes="53"
 			android:keyLabel="5"/>
 
 		<Key
-			android:codes="109,110,111,54"
+			android:codes="54"
 			android:keyLabel="6"/>
 
 		<Key
@@ -52,16 +52,16 @@
 	<Row>
 
 		<Key
-			android:codes="112,113,114,115,55"
+			android:codes="55"
 			android:keyEdgeFlags="left"
 			android:keyLabel="7"/>
 
 		<Key
-			android:codes="116,117,118,56"
+			android:codes="56"
 			android:keyLabel="8"/>
 
 		<Key
-			android:codes="119,120,121,122,57"
+			android:codes="9"
 			android:keyLabel="9"/>
 
 		<Key
@@ -78,7 +78,7 @@
 			android:keyLabel="*"/>
 
 		<Key
-			android:codes="32,48"
+			android:codes="48"
 			android:keyLabel="0"/>
 
 		<Key
