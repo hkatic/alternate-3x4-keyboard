@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://C:\Users\Hrvoje\StudioProjects\alternate-3x4-keyboard\Alternate3X4Keyboard.iml" filepath="C:\Users\Hrvoje\StudioProjects\alternate-3x4-keyboard\Alternate3X4Keyboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alternate3X4Keyboard.iml" filepath="$PROJECT_DIR$/Alternate3X4Keyboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/alternate-3x4-keyboard.iml" filepath="$PROJECT_DIR$/alternate-3x4-keyboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
